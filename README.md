@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there I'm Elia 👋
 
-<!--
-**Elius94/Elius94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently working on JS, Node, React, C# and C++
+- 📷 Landscapes Photographer -> www.eliusoutdoor.com
+- 🏔️ Love Mountaineering and adventures
+- 🪴 Based in Bologna, IT
+- 🎸 Guitar player, Music lover
 
-Here are some ideas to get you started:
+### My web spaces
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - ⚒️ www.linkedin.com/in/elia-lazzari-305ab7a3
+ - 🌍 www.eliusoutdoor.com
+ - 📷 www.instagram.com/eliusoutdoor
+ - 📒 www.facebook.com/eliusoutdoor
+ - 📽️ www.youtube.com/c/eliusoutdoorphotography
+
+### Nerd Stats
+
+<a href="https://github.com/elius94">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elius94&line_height=31.5&theme=dark&show_icons=true&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/elius94">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elius94&layout=compact&theme=dark&langs_count=10" />
+</a>
+
