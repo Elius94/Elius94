@@ -16,10 +16,5 @@
 
 ### Nerd Stats
 
-<a href="https://github.com/elius94">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elius94&line_height=31.5&theme=github_dark&show_icons=true&count_private=true" />
-</a>
-<a href="https://github.com/elius94">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elius94&layout=compact&theme=github_dark&langs_count=10&exclude_repo=Eliuslab_SSD1307_OLED_Driver" />
-</a>
-
+![](https://raw.githubusercontent.com/elius94/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/elius94/github-stats/master/generated/languages.svg#gh-dark-mode-only)
