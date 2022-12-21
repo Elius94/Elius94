@@ -18,3 +18,4 @@
 
 ![](https://raw.githubusercontent.com/elius94/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/elius94/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Elius94 trophy](https://github-profile-trophy.vercel.app/?username=Elius94&column=7&row=1&margin-w=10&theme=darkhub&no-frame=true)
