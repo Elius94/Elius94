@@ -1,6 +1,6 @@
 ### Hi there I'm Elia 👋
 
-- 🔭 Currently working on JS, Node, React, C# and C++
+- 🔭 Currently working on JS, Node, React, Rust and C++
 - 📷 Landscapes Photographer -> www.eliusoutdoor.com
 - 🏔️ Love Mountaineering and adventures
 - 🪴 Based in Bologna, IT
